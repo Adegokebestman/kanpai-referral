@@ -89,8 +89,8 @@ const Referral = () => {
      <div className='bg-[#FF7E20]    h-screen'>
 
 
-<div className="w-full ml-auto mr-auto block pt-10 md:pt-10 max-w-md p-8 space-y-3 rounded-xl dark:bg-gray-900 dark:text-gray-100">
-<div className=" ml-20 pb-10 text-center">
+<div className="w-full ml-auto mr-auto block pt-10 md:pt-3 max-w-md p-8 space-y-3 rounded-xl dark:bg-gray-900 dark:text-gray-100">
+<div className=" ml-20 pb-4 text-center">
   <img style={{width:'190px'}}  src={kanpai}/>
 
 </div>
